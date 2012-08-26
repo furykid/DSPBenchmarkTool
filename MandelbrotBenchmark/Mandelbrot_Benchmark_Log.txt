@@ -1,0 +1,62 @@
+
+Benchmark Results @ Fri Aug 24 12:40:09 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 4.4800 seconds
+-> highestFramerate: 4.76 Frames per second
+-> Zoom Iterations: 14 time(s)
+
+
+
+
+Benchmark Results @ Fri Aug 24 12:41:07 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 13.59 seconds
+-> highestFramerate: 12.50 Frames per second
+-> Zoom Iterations: 77 time(s)
+
+
+
+
+Benchmark Results @ Fri Aug 24 13:23:46 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 22.35 seconds
+-> highestFramerate: 14.29 Frames per second
+-> Zoom Iterations: 72 time(s)
+
+
+
+
+Benchmark Results @ Fri Aug 24 14:01:52 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 4.73 seconds
+-> highestFramerate: 12.50 Frames per second
+-> Zoom Iterations: 58 time(s)
+
+
+
+
+Benchmark Results @ Fri Aug 24 15:07:44 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 9.54 seconds
+-> Highest Framerate: 10.00 Frames per second
+-> Average Framerate: 5.59 Frames per second
+-> Zoom Iterations: 43 time(s)
+
+
+
+
+Benchmark Results @ Fri Aug 24 15:08:46 2012.
+------------------------------------------------
+-> Platform used: CPU
+-> Elapsed time of test: 19.89 seconds
+-> Highest Framerate: 12.50 Frames per second
+-> Average Framerate: 6.95 Frames per second
+-> Zoom Iterations: 84 time(s)
+
+
+
